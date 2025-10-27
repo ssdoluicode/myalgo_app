@@ -1,1 +1,2 @@
 MyAlgo App
+MyAlgo App Custom
